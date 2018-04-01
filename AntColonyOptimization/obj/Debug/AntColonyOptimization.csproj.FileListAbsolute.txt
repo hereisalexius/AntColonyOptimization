@@ -1,0 +1,27 @@
+c:\users\hereisalexius\documents\visual studio 2015\Projects\AntColonyOptimization\AntColonyOptimization\bin\Debug\AntColonyOptimization.exe.config
+C:\Users\hereisalexius\documents\visual studio 2015\Projects\AntColonyOptimization\AntColonyOptimization\bin\Debug\AntColonyOptimization.exe
+C:\Users\hereisalexius\documents\visual studio 2015\Projects\AntColonyOptimization\AntColonyOptimization\bin\Debug\AntColonyOptimization.pdb
+C:\Users\hereisalexius\documents\visual studio 2015\Projects\AntColonyOptimization\AntColonyOptimization\obj\Debug\AntColonyOptimization.Properties.Resources.resources
+C:\Users\hereisalexius\documents\visual studio 2015\Projects\AntColonyOptimization\AntColonyOptimization\obj\Debug\AntColonyOptimization.Visual.Graphs.Node.resources
+C:\Users\hereisalexius\documents\visual studio 2015\Projects\AntColonyOptimization\AntColonyOptimization\obj\Debug\AntColonyOptimization.csproj.GenerateResource.Cache
+C:\Users\hereisalexius\documents\visual studio 2015\Projects\AntColonyOptimization\AntColonyOptimization\obj\Debug\AntColonyOptimization.exe
+C:\Users\hereisalexius\documents\visual studio 2015\Projects\AntColonyOptimization\AntColonyOptimization\obj\Debug\AntColonyOptimization.pdb
+C:\Users\hereisalexius\documents\visual studio 2015\Projects\AntColonyOptimization\AntColonyOptimization\obj\Debug\AntColonyOptimization.MainForm.resources
+C:\Users\hereisalexius\documents\visual studio 2015\Projects\AntColonyOptimization\AntColonyOptimization\obj\Debug\AntColonyOptimization.Visual.Controls.ACOPropertiesControl.resources
+C:\Users\hereisalexius\documents\visual studio 2015\Projects\AntColonyOptimization\AntColonyOptimization\obj\Debug\AntColonyOptimization.Visual.Graphs.GraphView.resources
+C:\Users\hereisalexius\Documents\Visual Studio 2015\Projects\AntColonyOptimization\AntColonyOptimization\obj\Debug\AntColonyOptimization.Visual.Graphs.GraphEditControl.resources
+C:\Users\hereisalexius\Documents\Visual Studio 2015\Projects\AntColonyOptimization\AntColonyOptimization\obj\Debug\AntColonyOptimization.csprojResolveAssemblyReference.cache
+C:\Users\Olexiy\Desktop\to push on github\AntColonyOptimization\AntColonyOptimization\bin\Debug\AntColonyOptimization.exe.config
+C:\Users\Olexiy\Desktop\to push on github\AntColonyOptimization\AntColonyOptimization\bin\Debug\AntColonyOptimization.exe
+C:\Users\Olexiy\Desktop\to push on github\AntColonyOptimization\AntColonyOptimization\bin\Debug\AntColonyOptimization.pdb
+C:\Users\Olexiy\Desktop\to push on github\AntColonyOptimization\AntColonyOptimization\obj\Debug\AntColonyOptimization.csprojResolveAssemblyReference.cache
+C:\Users\Olexiy\Desktop\to push on github\AntColonyOptimization\AntColonyOptimization\obj\Debug\AntColonyOptimization.MainForm.resources
+C:\Users\Olexiy\Desktop\to push on github\AntColonyOptimization\AntColonyOptimization\obj\Debug\AntColonyOptimization.Properties.Resources.resources
+C:\Users\Olexiy\Desktop\to push on github\AntColonyOptimization\AntColonyOptimization\obj\Debug\AntColonyOptimization.Visual.Controls.ACOPropertiesControl.resources
+C:\Users\Olexiy\Desktop\to push on github\AntColonyOptimization\AntColonyOptimization\obj\Debug\AntColonyOptimization.Visual.Graphs.GraphEditControl.resources
+C:\Users\Olexiy\Desktop\to push on github\AntColonyOptimization\AntColonyOptimization\obj\Debug\AntColonyOptimization.Visual.Graphs.GraphView.resources
+C:\Users\Olexiy\Desktop\to push on github\AntColonyOptimization\AntColonyOptimization\obj\Debug\AntColonyOptimization.Visual.Graphs.Node.resources
+C:\Users\Olexiy\Desktop\to push on github\AntColonyOptimization\AntColonyOptimization\obj\Debug\AntColonyOptimization.csproj.GenerateResource.Cache
+C:\Users\Olexiy\Desktop\to push on github\AntColonyOptimization\AntColonyOptimization\obj\Debug\AntColonyOptimization.csproj.CoreCompileInputs.cache
+C:\Users\Olexiy\Desktop\to push on github\AntColonyOptimization\AntColonyOptimization\obj\Debug\AntColonyOptimization.exe
+C:\Users\Olexiy\Desktop\to push on github\AntColonyOptimization\AntColonyOptimization\obj\Debug\AntColonyOptimization.pdb
